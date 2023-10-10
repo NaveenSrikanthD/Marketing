@@ -155,7 +155,7 @@ steps:
               columnCounter: fd44eaf0-3585-43dc-8b21-96b5aff6df61
               stepCounter: 083fe290-7fcd-4ed8-be01-d805de58fbb6
             config: {}
-            dataType: NUMBER
+            dataType: VARCHAR
             defaultValue: ""
             description: ""
             hashColumns: []
