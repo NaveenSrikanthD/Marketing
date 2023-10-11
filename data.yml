@@ -1517,5 +1517,12 @@ stepTypes:
             {% endif %}
     name: Persistent Stage
     version: 1
-subgraphs: {}
+subgraphs:
+  Subgraph-1:
+    id: "1"
+    name: Customer
+    steps:
+      - 6855ff39-681e-44a4-842e-4d19a519ded5
+      - e43eb1b6-9447-4b6b-8ea8-35b32c186327
+      - 9e29988e-4607-4f8c-b22e-6f7599126001
 version: 2
